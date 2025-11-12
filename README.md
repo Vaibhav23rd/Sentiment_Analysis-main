@@ -56,7 +56,7 @@ The backend is powered by a custom-trained **Support Vector Machine (SVM)** mode
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/YashMoney/Sentiment_Analysis.git](https://github.com/YashMoney/Sentiment_Analysis.git)
+git clone [https://github.com/Vaibhav23rd/Sentiment_Analysis-main.git]
 cd Sentiment_Analysis
 ```
 
